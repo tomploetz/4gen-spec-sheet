@@ -17,6 +17,12 @@
           "deploymentBucketName": "amplify-4genspecsheet-dev-140438-deployment",
           "s3Key": "amplify-builds/4genspecsheet78a1ea26-696673716732346b6351-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2xcj54qlidg11",
+          "type": "cicd"
+        }
       }
     }
   }
