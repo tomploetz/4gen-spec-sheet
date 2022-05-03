@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/spec/{id}": {
+      "name": "/spec/{id}",
+      "lambdaFunction": "4genspecsheet78a1ea26",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

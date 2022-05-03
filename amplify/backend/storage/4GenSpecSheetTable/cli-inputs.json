@@ -1,0 +1,10 @@
+{
+  "resourceName": "4GenSpecSheetTable",
+  "tableName": "4GenSpecSheetTable",
+  "partitionKey": {
+    "fieldName": "rings_ball_material",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
